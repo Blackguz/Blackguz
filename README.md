@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Blackguz](https://github.com/Blackguz)! 😁
 
-Hello, my name is Román Guzmán and I am an student at the [Autonomous University of Zacatecas](https://www.uaz.edu.mx/) I am a full-stack software developer with a year of experience developing small personal and client projects. My technology stack involves Java/J2EE, Maven, Hibernate, MySQL, javascript, Nodejs, and, HTML/CSS/JS, PHP, Python. Besides web programming, I have an immense interest in machine learning.
+Hello, my name is Román Guzmán and I am an student of the [Autonomous University of Zacatecas](https://www.uaz.edu.mx/) I am a full-stack software developer with a year of experience developing small personal and client projects. My technology stack involves Java/J2EE, Maven, Hibernate, MySQL, javascript, Nodejs, and, HTML/CSS/JS, PHP, Python. Besides web programming, I have an immense interest in machine learning.
 
 - 🔭 I am currently taking courses on frameworks for front development, such as Angular and Boostrap
 - 📫 My contact mail: romanguzv4@gmail.com
